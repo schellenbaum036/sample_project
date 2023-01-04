@@ -1,8 +1,9 @@
 @charset "UTF-8";
 
 .topwrapper{
-    width: 100%;
+    width: 200px;
     height: 100px;
     color: red;
     background-color: rgb(204, 119, 14);
 }
+200px

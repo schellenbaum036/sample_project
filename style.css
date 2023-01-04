@@ -1,8 +1,8 @@
 @charset "UTF-8";
 
 .topwrapper{
-    width: 1000px;
-    height: 200px;
+    width: 100vw;
+    aspect-ratio: 4/1;
     color: blueviolet;
     background-color: rgb(204, 119, 14);
 }

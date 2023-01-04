@@ -6,3 +6,24 @@
     color: blueviolet;
     background-color: rgb(204, 119, 14);
 }
+
+.box{
+    width: 30vw;
+    aspect-ratio: 1/1;
+}
+
+.blue{
+    background-color: blue;
+}
+
+.red{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+}

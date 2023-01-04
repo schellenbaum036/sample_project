@@ -7,6 +7,11 @@
     background-color: rgb(204, 119, 14);
 }
 
+.colorbox{
+    display: flex;
+    justify-content: space-around;
+}
+
 .box{
     width: 30vw;
     aspect-ratio: 1/1;

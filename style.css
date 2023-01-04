@@ -6,6 +6,7 @@ body{
 }
 
 .topwrapper{
+    text-align: center;
     width: 100vw;
     aspect-ratio: 4/1;
     color: blueviolet;

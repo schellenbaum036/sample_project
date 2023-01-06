@@ -11,6 +11,8 @@ body{
     aspect-ratio: 4/1;
     color: blueviolet;
     background-color: rgb(204, 119, 14);
+    display: grid;
+    place-items: center stretch;
 }
 
 .colorbox{

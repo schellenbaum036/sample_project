@@ -14,6 +14,11 @@ p{
     margin: 0;
 }
 
+.space{
+    width: 100vw;
+    aspect-ratio: 5/1;
+}
+
 .topwrapper{
     text-align: center;
     width: 100vw;

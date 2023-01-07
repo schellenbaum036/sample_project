@@ -32,7 +32,7 @@ p{
     place-items: center stretch;
 }
 
-.colorbox{
+.picture-box{
     display: flex;
     justify-content: space-around;
 }

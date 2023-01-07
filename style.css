@@ -32,11 +32,6 @@ p{
     place-items: center stretch;
 }
 
-img{
-    object-fit: contain;
-    
-}
-
 .colorbox{
     display: flex;
     justify-content: space-around;
@@ -47,3 +42,6 @@ img{
     aspect-ratio: 1/1;
 }
 
+img{
+    object-fit: contain;
+}

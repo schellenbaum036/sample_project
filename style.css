@@ -32,6 +32,11 @@ p{
     place-items: center stretch;
 }
 
+img{
+    object-fit: contain;
+    
+}
+
 .colorbox{
     display: flex;
     justify-content: space-around;

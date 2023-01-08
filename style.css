@@ -48,3 +48,8 @@ img{
     width: inherit;
     height: inherit;
 }
+
+.lost{
+    width: 100vw;
+    height: auto;
+}

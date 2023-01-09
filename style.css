@@ -6,12 +6,13 @@ body{
     background-color: aqua;
 }
 
-h1{
+.topwrapper>h1{
     font-size: 4em;
     margin: 0;
     font-weight: bold;
 }
-p{
+
+.topwrapper>p{
     font-size: 2em;
     margin: 0;
     font-weight: bold;

@@ -6,12 +6,14 @@ body{
     background-color: aqua;
 }
 
-h1{
+.topwrapper>h1{
     font-size: 4em;
     margin: 0;
     font-weight: bold;
+    color:rgb(60, 60, 151)
 }
-p{
+
+.topwrapper>p{
     font-size: 2em;
     margin: 0;
     font-weight: bold;
@@ -32,7 +34,7 @@ p{
     place-items: center stretch;
 }
 
-.colorbox{
+.picture-box{
     display: flex;
     justify-content: space-around;
 }
@@ -42,22 +44,14 @@ p{
     aspect-ratio: 1/1;
 }
 
-.blue{
-    background-color: blue;
+img{
+    object-fit: cover;
+    position: absolute;
+    width: inherit;
+    height: inherit;
 }
 
-.red{
-    background-color: red;
-}
-
-.yellow{
-    background-color: yellow;
-}
-
-.green{
-    background-color: green;
-}
-
-.gray{
-    background-color: gray;
+.lost{
+    width: 100vw;
+    height: auto;
 }

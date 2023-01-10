@@ -1,17 +1,17 @@
 @charset "UTF-8";
 
 body{
-    background-color: aqua;
+    background-color: rgb(120, 173, 173);
 }
 
-.topwrapper>h1{
-    font-size: 4em;
+.topwrapper h1{
+    font-size: inherit;
     font-weight: bold;
     color:rgb(60, 60, 151)
 }
 
-.topwrapper>p{
-    font-size: 2em;
+.topwrapper p{
+    font-size: inherit;
     font-weight: bold;
 }
 

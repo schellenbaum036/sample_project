@@ -1,5 +1,17 @@
 @charset "URF-8";
 
+
+@media screen and (max-width: 1000px){
+    
+    .topwrapper h1{
+        color: #802f00;
+    }
+
+    .topwrapper p{
+        font-size: 12px;
+    }
+}
+
 @media screen and (max-width: 768px) {
 
     .topwrapper h1{

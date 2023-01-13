@@ -1,0 +1,14 @@
+@charset "URF-8";
+
+@media screen and (max-width: 768px) {
+
+    .topwrapper h1{
+        color: green;
+    }
+
+    .topwrapper p{
+        display: none;
+    }
+
+    
+}
